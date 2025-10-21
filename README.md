@@ -88,6 +88,7 @@ Based on successful sa_solver/ode, further improving convergence stability
 from https://github.com/eddyhhlure1Eddy/ode-ComfyUI-WanVideoWrapper
 """
 ```
+dz/dt = g ⊙ z ⊙ ( 1 + c * (G @ z) - c * (I @ z) )
 
 **Reference File**: `kijai/ComfyUI-WanVideoWrapper/wanvideo/schedulers/fm_sa_ode.py`
 
