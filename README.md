@@ -1,5 +1,13 @@
 ![lv_0_20251021160044](https://github.com/user-attachments/assets/4646a879-93f8-4823-9bd2-ae7a4e219efa)
 
+# I-Ching-Informed Adaptive ODE Scheduler
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17445974.svg)](https://doi.org/10.5281/zenodo.17445974)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/eddyhhlure1Eddy/I-Ching-Informed-Adaptive-ODE-Scheduler)](https://github.com/eddyhhlure1Eddy/I-Ching-Informed-Adaptive-ODE-Scheduler/stargazers)
+
+> **Paper**: [IChingWuxingScheduler: A Novel Noise Scheduling Algorithm Based on Traditional Chinese Philosophy for Diffusion Models](https://doi.org/10.5281/zenodo.17445974)
+
 # ODEv2 Technical Overview
 
 **Version**: ODEv2  
